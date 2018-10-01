@@ -1,0 +1,16 @@
+{
+    "name": "mac2/quete_simple_mvc",
+    "description": "Composer pour les quêtes mvc",
+    "authors": [
+        {
+            "name": "Marc-Antoine Castelain",
+            "email": "ma.castelain@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
