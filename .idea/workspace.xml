@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="858d5e62-331e-4d33-93f9-01f964fae176" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/ItemController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ItemController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/ItemManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/ItemManager.php" afterDir="false" />
-    </list>
+    <list default="true" id="858d5e62-331e-4d33-93f9-01f964fae176" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +85,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="177" />
-    <option name="y" value="237" />
+    <option name="x" value="242" />
+    <option name="y" value="233" />
     <option name="width" value="1057" />
     <option name="height" value="633" />
   </component>
@@ -205,16 +201,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538396202822</updated>
-      <workItem from="1538396205993" duration="8200000" />
+      <workItem from="1538396205993" duration="8450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8200000" />
+    <option name="totallyTimeSpent" value="8450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="177" y="237" width="1057" height="633" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.330366" />
