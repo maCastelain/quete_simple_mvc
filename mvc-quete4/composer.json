@@ -1,0 +1,18 @@
+{
+    "name": "SimpleMVC",
+    "authors": [
+        {
+            "name": "Marc Castelain",
+            "email": "ma.castelain@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "twig/twig": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "" : "src/"
+        }
+    }
+}
